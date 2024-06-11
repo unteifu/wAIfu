@@ -3,7 +3,8 @@
   <p align="center">An AI anime companion</p>
 </div>
 
-[Demo](https://github.com/unteifu/wAIfu/assets/58165539/ff94d982-e4f3-4539-b0d3-2817d906d704)
+[Demo](https://github.com/unteifu/wAIfu/assets/58165539/720f5a07-29cd-4699-bdc2-2acc747e890c)
+
 
 ### Built With
 * [Next.js](https://nextjs.org/)
