@@ -3,6 +3,8 @@
   <p align="center">An AI anime companion</p>
 </div>
 
+[Demo](https://github.com/unteifu/wAIfu/assets/58165539/ff94d982-e4f3-4539-b0d3-2817d906d704)
+
 ### Built With
 * [Next.js](https://nextjs.org/)
 * [Vercel AI](https://vercel.com/ai)
