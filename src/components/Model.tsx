@@ -28,12 +28,10 @@ export default function Model() {
           height: window.innerHeight,
         });
 
-        const model = await Live2DModel.from(
-          "/model/Idol2_Public_ver_1.model3.json",
-        );
+        const model = await Live2DModel.from("/model/L2DZeroVS.model3.json");
 
         app.stage.addChild(model);
-        model.anchor.set(0.5, 0.5);
+        model.anchor.set(0.5, 0.78);
 
         let scale;
         if (app.view.width / app.view.height > model.width / model.height) {
@@ -42,7 +40,7 @@ export default function Model() {
           scale = app.view.width / model.width;
         }
 
-        model.scale.set(scale * 2.3);
+        model.scale.set(scale * 2.6);
         model.position.set(app.view.width / 2, app.view.height * 1.15);
       }
     };

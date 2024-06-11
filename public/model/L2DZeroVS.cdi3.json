@@ -1,0 +1,531 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param1y1",
+			"GroupId": "ParamGroup2",
+			"Name": "1Y1"
+		},
+		{
+			"Id": "Param1y2",
+			"GroupId": "ParamGroup2",
+			"Name": "1Y2"
+		},
+		{
+			"Id": "Param2y1",
+			"GroupId": "ParamGroup2",
+			"Name": "2Y1"
+		},
+		{
+			"Id": "Param2y2",
+			"GroupId": "ParamGroup2",
+			"Name": "2Y2"
+		},
+		{
+			"Id": "Param2cy1",
+			"GroupId": "ParamGroup2",
+			"Name": "2CY1"
+		},
+		{
+			"Id": "Param2cy2",
+			"GroupId": "ParamGroup2",
+			"Name": "2CY2"
+		},
+		{
+			"Id": "Param3y1",
+			"GroupId": "ParamGroup2",
+			"Name": "3Y1"
+		},
+		{
+			"Id": "Param3y2",
+			"GroupId": "ParamGroup2",
+			"Name": "3Y2"
+		},
+		{
+			"Id": "Param3cy1",
+			"GroupId": "ParamGroup2",
+			"Name": "3CY1"
+		},
+		{
+			"Id": "Param3cy2",
+			"GroupId": "ParamGroup2",
+			"Name": "3CY2"
+		},
+		{
+			"Id": "Param4y1",
+			"GroupId": "ParamGroup2",
+			"Name": "4Y1"
+		},
+		{
+			"Id": "Param4y2",
+			"GroupId": "ParamGroup2",
+			"Name": "4Y2"
+		},
+		{
+			"Id": "Param4cy1",
+			"GroupId": "ParamGroup2",
+			"Name": "4CY1"
+		},
+		{
+			"Id": "Param4cy2",
+			"GroupId": "ParamGroup2",
+			"Name": "4CY2"
+		},
+		{
+			"Id": "Param5y1",
+			"GroupId": "ParamGroup2",
+			"Name": "5Y1"
+		},
+		{
+			"Id": "Param5y2",
+			"GroupId": "ParamGroup2",
+			"Name": "5Y2"
+		},
+		{
+			"Id": "Param5cy1",
+			"GroupId": "ParamGroup2",
+			"Name": "5CY1"
+		},
+		{
+			"Id": "Param5cy2",
+			"GroupId": "ParamGroup2",
+			"Name": "5CY2"
+		},
+		{
+			"Id": "Paramuy1",
+			"GroupId": "ParamGroup2",
+			"Name": "UY1"
+		},
+		{
+			"Id": "Paramuy2",
+			"GroupId": "ParamGroup2",
+			"Name": "UY2"
+		},
+		{
+			"Id": "Paramuyy",
+			"GroupId": "ParamGroup2",
+			"Name": "UYY"
+		},
+		{
+			"Id": "ParamuSY1",
+			"GroupId": "ParamGroup2",
+			"Name": "SY1"
+		},
+		{
+			"Id": "ParamuSY2",
+			"GroupId": "ParamGroup2",
+			"Name": "SY2"
+		},
+		{
+			"Id": "ParamuSY3",
+			"GroupId": "ParamGroup2",
+			"Name": "SYY"
+		},
+		{
+			"Id": "ParamuRY3",
+			"GroupId": "ParamGroup2",
+			"Name": "RY1"
+		},
+		{
+			"Id": "ParamuRY4",
+			"GroupId": "ParamGroup2",
+			"Name": "RY2"
+		},
+		{
+			"Id": "ParamuRY5",
+			"GroupId": "ParamGroup2",
+			"Name": "RYY"
+		},
+		{
+			"Id": "ParamBX",
+			"GroupId": "ParamGroup2",
+			"Name": "胸揺れX"
+		},
+		{
+			"Id": "ParamBY",
+			"GroupId": "ParamGroup2",
+			"Name": "胸揺れY"
+		},
+		{
+			"Id": "ParamBX2",
+			"GroupId": "ParamGroup2",
+			"Name": "胸揺れX2"
+		},
+		{
+			"Id": "ParamBY2",
+			"GroupId": "ParamGroup2",
+			"Name": "胸揺れY2"
+		},
+		{
+			"Id": "ParamuIHLU",
+			"GroupId": "ParamGroup2",
+			"Name": "IHL"
+		},
+		{
+			"Id": "ParamuIHLU2",
+			"GroupId": "ParamGroup2",
+			"Name": "IHL2"
+		},
+		{
+			"Id": "haircolor_R",
+			"GroupId": "ParamGroup3",
+			"Name": "髪R"
+		},
+		{
+			"Id": "haircolor_G",
+			"GroupId": "ParamGroup3",
+			"Name": "髪G"
+		},
+		{
+			"Id": "haircolor_B",
+			"GroupId": "ParamGroup3",
+			"Name": "髪B"
+		},
+		{
+			"Id": "eyecolor_R_R",
+			"GroupId": "ParamGroup3",
+			"Name": "→目R"
+		},
+		{
+			"Id": "eyecolor_G_R",
+			"GroupId": "ParamGroup3",
+			"Name": "→目G"
+		},
+		{
+			"Id": "eyecolor_B_R",
+			"GroupId": "ParamGroup3",
+			"Name": "→目B"
+		},
+		{
+			"Id": "eyecolor_R_L",
+			"GroupId": "ParamGroup3",
+			"Name": "←目R"
+		},
+		{
+			"Id": "eyecolor_G_L",
+			"GroupId": "ParamGroup3",
+			"Name": "←目G"
+		},
+		{
+			"Id": "eyecolor_B_L",
+			"GroupId": "ParamGroup3",
+			"Name": "←目B"
+		},
+		{
+			"Id": "A_tongue_out",
+			"GroupId": "ParamGroup4",
+			"Name": "A_舌出し"
+		},
+		{
+			"Id": "B_mouth_control",
+			"GroupId": "ParamGroup4",
+			"Name": "B_口制御"
+		},
+		{
+			"Id": "C_eyebrow_control",
+			"GroupId": "ParamGroup4",
+			"Name": "C_眉制御"
+		},
+		{
+			"Id": "D_love",
+			"GroupId": "ParamGroup4",
+			"Name": "D_ハート"
+		},
+		{
+			"Id": "E_moon_eyes",
+			"GroupId": "ParamGroup4",
+			"Name": "E_つぶらな瞳"
+		},
+		{
+			"Id": "F_star",
+			"GroupId": "ParamGroup4",
+			"Name": "F_星"
+		},
+		{
+			"Id": "G_tear",
+			"GroupId": "ParamGroup4",
+			"Name": "G_涙"
+		},
+		{
+			"Id": "H_darkness",
+			"GroupId": "ParamGroup4",
+			"Name": "H_闇"
+		},
+		{
+			"Id": "I_halo",
+			"GroupId": "ParamGroup4",
+			"Name": "I_円光"
+		},
+		{
+			"Id": "J_Highlight_OFF",
+			"GroupId": "ParamGroup4",
+			"Name": "J_ハイライトOFF"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "基本動作"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "物理演算"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "カラーRGB"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "追加モーション"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part35",
+			"Name": "L2DZero.psd（対応無し）"
+		},
+		{
+			"Id": "Part",
+			"Name": "頭部"
+		},
+		{
+			"Id": "Part12",
+			"Name": "体"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 下絵 ]"
+		},
+		{
+			"Id": "Part17",
+			"Name": "頭部"
+		},
+		{
+			"Id": "Part2",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part13",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part21",
+			"Name": "←眉"
+		},
+		{
+			"Id": "Part22",
+			"Name": "→眉"
+		},
+		{
+			"Id": "Part3",
+			"Name": "髪正面"
+		},
+		{
+			"Id": "Part4",
+			"Name": "髪影"
+		},
+		{
+			"Id": "Part5",
+			"Name": "←目"
+		},
+		{
+			"Id": "Part8",
+			"Name": "→目"
+		},
+		{
+			"Id": "Part11",
+			"Name": "口"
+		},
+		{
+			"Id": "Part20",
+			"Name": "3"
+		},
+		{
+			"Id": "Part19",
+			"Name": "4"
+		},
+		{
+			"Id": "Part18",
+			"Name": "5"
+		},
+		{
+			"Id": "Part16",
+			"Name": "31"
+		},
+		{
+			"Id": "Part15",
+			"Name": "1"
+		},
+		{
+			"Id": "Part14",
+			"Name": "2"
+		},
+		{
+			"Id": "Part6",
+			"Name": "フォルダー 4"
+		},
+		{
+			"Id": "Part7",
+			"Name": "瞳 のコピー"
+		},
+		{
+			"Id": "Part9",
+			"Name": "フォルダー 1"
+		},
+		{
+			"Id": "Part10",
+			"Name": "瞳"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"ParamBX",
+			"ParamBY"
+		],
+		[
+			"ParamBX2",
+			"ParamBY2"
+		]
+	]
+}
