@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "L2DZeroVS.moc3",
+		"Textures": [
+			"L2DZeroVS.8192/texture_00.png"
+		],
+		"Physics": "L2DZeroVS.physics3.json",
+		"DisplayInfo": "L2DZeroVS.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
